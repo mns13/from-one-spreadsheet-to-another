@@ -1,7 +1,5 @@
 credentials.json
-conf.json
 composer.lock
 /vendor
-/.vscode
 helper.php
 test.php
